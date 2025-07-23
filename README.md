@@ -4,7 +4,8 @@ A smart, sleek, and open-source AI-powered resume builder built using **React**,
 
 ## 🚀 Live Demo
 
-👉 [Visit Website on Vercel]([https://your-vercel-app-link.vercel.app](https://ai-resume-maker-xi.vercel.app/)) *(Update this once deployed)*
+👉 [Visit Website on Vercel]
+https://ai-resume-maker-xi.vercel.app/
 
 ---
 
